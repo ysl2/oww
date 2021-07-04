@@ -16,6 +16,11 @@
 
 5. Enjoy :-)
 
+## Others
+
+- Windows activate tool
+- keymap tool
+
 ## Reference
 
 - https://qv2ray.net/lang/zh/getting-started/step2.html#%E6%89%8B%E5%8A%A8%E4%B8%8B%E8%BD%BD
